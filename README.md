@@ -2,7 +2,7 @@
 ## Project: Finding Donors for CharityML
 
 ## Project Overview
-In this project, I  apply supervised learning techniques on data collected for the U.S. census to help a (ficticious) charity organization identify people most likely to donate to their cause. I first explore the data to learn how the census data is recorded. Next, I apply a series of transformations and preprocessing techniques to manipulate the data into a workable format. I then evaluate several supervised learners on the data, and consider which is best suited for the solution. Afterwards, I optimize the selected model and present it as your solution.
+In this project, I  apply supervised learning techniques on data collected for the U.S. census to help a (fictitious) charity organization identify people most likely to donate to their cause. I first explore the data to learn how the census data is recorded. Next, I apply a series of transformations and preprocessing techniques to manipulate the data into a workable format. I then evaluate several supervised learners on the data, and consider which is best suited for the solution. Afterwards, I optimize the selected model and present it as your solution.
 
 ## Project Highlights
 This project was designed to acquaint me with the many supervised learning algorithms available in sklearn, and to also provide for a method of evaluating just how each model works and performs on a certain type of data. It is important in machine learning to understand exactly when and where a certain algorithm should be used, and when one should be avoided.
